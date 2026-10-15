@@ -1,0 +1,2 @@
+# Required by the UX design-rule tools. IR helpers use the Python standard library.
+PyYAML>=6.0,<7.0
