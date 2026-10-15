@@ -1,0 +1,6 @@
+interface:
+  display_name: "Claude Review"
+  short_description: "Independent read-only review with Claude Code"
+  default_prompt: "Use $claude-review to review the current changes with Claude Code, using the opus alias and xhigh effort without editing files."
+policy:
+  allow_implicit_invocation: false
